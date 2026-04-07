@@ -298,8 +298,8 @@ The YAML source file is saved in `semantic_view_work/SALES_DATA_SEMANTIC_VIEW_se
 
 | User | Password | Default Role |
 |---|---|---|
-| `BIKE_USER` | `BikeDemoPass123!` | `BIKE_ROLE` |
-| `SNOW_USER` | `SnowDemoPass123!` | `SNOW_ROLE` |
+| `BIKE_USER` | `xxxxx!` | `BIKE_ROLE` |
+| `SNOW_USER` | `xxxxx!` | `SNOW_ROLE` |
 
 ---
 
